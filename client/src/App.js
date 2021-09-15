@@ -1,8 +1,18 @@
+// React Admin
+import { Admin, Resource } from "react-admin";
+
+// Provider
+import restProvider from "ra-data-simple-rest";
+
+// Components
+import PostList from "./components/PostList";
+
+// App
 function App() {
   return (
-    <div>
-      <h2>hello</h2>
-    </div>
+    <Admin dataProvider={restProvider("http://localhost:3000")}>
+      <Resource name="posts" list={PostList} />
+    </Admin>
   );
 }
 
