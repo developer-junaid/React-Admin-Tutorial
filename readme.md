@@ -1,5 +1,7 @@
 # React Admin Tutorial
 
+<img src="/home.png"/>
+
 ## Basic Setup
 
 ---
