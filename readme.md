@@ -1,5 +1,7 @@
 # React Admin Tutorial
 
+### Documentation :link: https://www.npmjs.com/package/react-admin
+
 <img src="/home.png"/>
 
 ## Basic Setup
