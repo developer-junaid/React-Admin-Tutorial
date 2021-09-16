@@ -3,14 +3,20 @@
     {
       "id": "1",
       "title": "Post One",
-      "body": "This is the post body",
-      "publishedAt": "10-01-2020"
+      "body": "This is the post body alksjdl",
+      "publishedAt": "2020-10-01"
     },
     {
       "id": "3",
       "title": "Post Three",
       "body": "This is the post body",
       "publishedAt": "12-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "This is the body for post 4",
+      "publishedAt": "2021-09-22",
+      "id": "obBNaX8"
     }
   ],
   "users": [
@@ -18,6 +24,11 @@
       "id": "1",
       "name": "John Doe",
       "email": "john@example.com"
+    },
+    {
+      "name": "Junaid",
+      "email": "qjunaid623@gmail.com",
+      "id": "qcmV-Cn"
     }
   ]
 }
